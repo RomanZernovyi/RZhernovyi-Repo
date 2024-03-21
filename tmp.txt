@@ -2,8 +2,6 @@
 git init
 git add -A
 git commit -m "first commit"
--переименовываем ветку на локал репозиторий
-git branch -M main 
--связываем локал с удаленным
+git branch -M main
 git remote add origin https://github.com/RomanZernovyi/RZhernovyi-Repo.git
 git push -u origin main
